@@ -145,7 +145,7 @@ if predict_btn:
     }
 
     try:
-        response = requests.post("http://127.0.0.1:8000/predict", json=data)
+        response = requests.post("https://maternal-health-risk-predictor-shjf.onrender.com/predict", json=data)
         result = response.json()
 
         risk = result["RiskLevel"]
