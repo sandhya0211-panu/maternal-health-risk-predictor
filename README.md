@@ -1,5 +1,13 @@
 # 🤰 Maternal Health Risk Prediction System
 
+## 🔗 Live Links
+- 🌐 Frontend (Streamlit): https://maternal-health-risk-predictor-nnssywnmmxqf8q6wpr8bkz.streamlit.app/
+
+- ⚙ Backend API (FastAPI): https://maternal-health-risk-predictor-shjf.onrender.com
+
+- 📂 GitHub Repository: https://github.com/sandhya0211-panu/maternal-health-risk-predictor
+
+---
 ## 🚀 Overview
 
 This project is an **AI-powered Maternal Health Risk Prediction System** that predicts the risk level of pregnant women based on medical parameters such as blood pressure, blood sugar, body temperature, and heart rate.
